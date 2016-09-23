@@ -1,4 +1,5 @@
 import numpy as np
+# O(logn) time. Totally log(n) + 1 recursions. Each recursion has constant work
 
 def split(leftArr, rightArr):
 
